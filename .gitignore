@@ -1,0 +1,28 @@
+# Compiled output
+dist/
+out/
+
+# Dependencies
+node_modules/
+
+# Environment files
+.env
+.env.*
+
+# Build artifacts
+*.js.map
+*.js.LICENSE.txt
+
+# IDE files
+.vscode/
+.idea/
+
+# Test output
+test-results/
+
+# Logs
+logs/
+*.log
+/test-results/
+/playwright-report/
+/playwright/.cache/
